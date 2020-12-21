@@ -1,4 +1,4 @@
-## ELIZABETHJOSEPHINE-IPWK4
+## Electric car-sharing service company : analysis and understanding of electric car usage overtime
 my independent project for week 4 studies in moringa school
 ## Assessment
 Overview
